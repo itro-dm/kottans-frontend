@@ -1,7 +1,7 @@
 # kottans-frontend
 The repo is about my journey with Kottans
 
-
+structure copy&pasted from this [repo](https://github.com/SophiaPylypchuk/kottans-frontend/blob/master/README.md) 
 
 1. **GENERAL**
     - [x] [Git and Github](#1-git-and-github)
